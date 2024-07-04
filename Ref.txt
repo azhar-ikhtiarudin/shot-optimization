@@ -1,0 +1,11 @@
+
+## Optimizing Shot Assignment in Variational Quantum Eigensolver Measurement
+https://github.com/LeungSamWai/OptimizingMeasurement/tree/main
+https://arxiv.org/pdf/2307.06504
+
+
+## Artificial-Intelligence-Driven Shot Reduction in Quantum Measurement
+https://github.com/Linghua-Zhu/RL-Quantum-Measurement-Optimization
+https://arxiv.org/pdf/2405.02493
+
+
