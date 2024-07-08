@@ -1,0 +1,83 @@
+energy mean: -0.6243  state1: 1.4962 state2: 1.0000 mae: 0.8246 shots: 477  done: False totalshots: 4950
+energy mean: -0.7996  state1: 2.8595 state2: 1.0000 mae: 0.0264 shots: 442  done: False totalshots: 9360
+energy mean: -0.7142  state1: 1.8268 state2: 0.0000 mae: 0.5300 shots: 384  done: False totalshots: 13200
+energy mean: -0.7760  state1: 1.5580 state2: 1.0000 mae: 0.7109 shots: 281  done: False totalshots: 15990
+energy mean: -0.8865  state1: 2.5591 state2: 1.0000 mae: 0.1207 shots: 544  done: False totalshots: 21420
+energy mean: -0.8989  state1: 3.2024 state2: 1.0000 mae: 0.0052 shots: 447  done: False totalshots: 25890
+energy mean: -0.9293  state1: 2.7249 state2: 1.0000 mae: 0.0731 shots: 418  done: False totalshots: 30060
+energy mean: -0.9476  state1: 3.4333 state2: 1.0000 mae: 0.0031 shots: 521  done: False totalshots: 35250
+energy mean: -0.9374  state1: 2.1703 state2: 1.0000 mae: 0.4161 shots: 348  done: False totalshots: 38730
+energy mean: -0.9315  state1: 3.1143 state2: 1.0000 mae: 0.0224 shots: 303  done: False totalshots: 41760
+Episode: 1	Average Reward: -4
+energy mean: -0.5707  state1: 1.6822 state2: 1.0000 mae: 0.8863 shots: 156  done: False totalshots: 1740
+energy mean: -0.6733  state1: 1.6359 state2: 1.0000 mae: 0.7838 shots: 106  done: False totalshots: 2790
+energy mean: -0.6688  state1: 2.3597 state2: 1.0000 mae: 0.0980 shots: 27  done: False totalshots: 3060
+energy mean: -0.3258  state1: 2.0250 state2: 0.0000 mae: 0.0071 shots: 3  done: False totalshots: 3090
+energy mean: -0.3290  state1: 1.6045 state2: 0.0000 mae: 0.6379 shots: 119  done: False totalshots: 4260
+energy mean: -0.5267  state1: 1.4004 state2: 0.0000 mae: 0.5503 shots: 125  done: False totalshots: 5490
+energy mean: -0.3164  state1: 1.7975 state2: 0.0000 mae: 0.3099 shots: 365  done: False totalshots: 9120
+energy mean: -0.3705  state1: 1.2250 state2: 0.0000 mae: 0.7538 shots: 245  done: False totalshots: 11550
+energy mean: -0.5501  state1: 1.6910 state2: 0.0000 mae: 0.2040 shots: 75  done: False totalshots: 12300
+energy mean: -0.5658  state1: 3.0905 state2: 0.0000 mae: 0.0093 shots: 183  done: False totalshots: 14130
+Episode: 2	Average Reward: -1
+energy mean: -0.6326  state1: 2.0241 state2: 1.0000 mae: 0.0056 shots: 3  done: False totalshots: 210
+energy mean: -0.6617  state1: 1.2119 state2: 1.0000 mae: 0.3310 shots: 3  done: False totalshots: 240
+energy mean: -0.8058  state1: 1.1638 state2: 1.0000 mae: 0.5328 shots: 3  done: False totalshots: 270
+energy mean: -0.3247  state1: 0.9712 state2: 0.0000 mae: 0.5252 shots: 3  done: False totalshots: 300
+energy mean: -0.3141  state1: 1.5358 state2: 0.0000 mae: 0.0207 shots: 3  done: False totalshots: 330
+energy mean: -0.7189  state1: 1.3223 state2: 0.0000 mae: 0.8971 shots: 104  done: False totalshots: 1350
+energy mean: -0.9060  state1: 2.1905 state2: 1.0000 mae: 0.2660 shots: 101  done: False totalshots: 2340
+energy mean: -0.6705  state1: 1.0680 state2: 0.0000 mae: 0.6112 shots: 3  done: False totalshots: 2370
+energy mean: -0.4755  state1: 1.7442 state2: 0.0000 mae: 0.2305 shots: 142  done: False totalshots: 3780
+energy mean: -0.3648  state1: 1.2045 state2: 0.0000 mae: 0.1725 shots: 3  done: False totalshots: 3810
+Episode: 3	Average Reward: 0
+energy mean: -0.3057  state1: 1.9567 state2: 1.0000 mae: 0.0143 shots: 3  done: False totalshots: 210
+energy mean: -0.3664  state1: 0.9758 state2: 1.0000 mae: 0.4158 shots: 3  done: False totalshots: 240
+energy mean: -0.8473  state1: 1.5129 state2: 1.0000 mae: 0.4687 shots: 122  done: False totalshots: 1440
+energy mean: -0.8327  state1: 3.0343 state2: 1.0000 mae: 0.0005 shots: 59  done: False totalshots: 2010
+energy mean: -0.6866  state1: 2.8665 state2: 0.0000 mae: 0.0001 shots: 3  done: False totalshots: 2040
+energy mean: -0.2968  state1: 1.7123 state2: 0.0000 mae: 0.6519 shots: 165  done: False totalshots: 3690
+energy mean: -0.3317  state1: 3.0232 state2: 0.0000 mae: 0.0003 shots: 16  done: False totalshots: 3840
+energy mean: -0.6059  state1: 1.3563 state2: 0.0000 mae: 0.1161 shots: 3  done: False totalshots: 3870
+energy mean: -0.3724  state1: 1.8527 state2: 0.0000 mae: 0.4347 shots: 191  done: False totalshots: 5760
+energy mean: -0.4073  state1: 2.2756 state2: 0.0000 mae: 0.2462 shots: 222  done: False totalshots: 7980
+Episode: 4	Average Reward: 0
+energy mean: -0.6672  state1: 2.1185 state2: 1.0000 mae: 0.1864 shots: 61  done: False totalshots: 780
+energy mean: -0.6161  state1: 2.4006 state2: 0.0000 mae: 0.1543 shots: 62  done: False totalshots: 1380
+energy mean: -0.5703  state1: 2.0793 state2: 0.0000 mae: 0.0038 shots: 3  done: False totalshots: 1410
+energy mean: -0.8755  state1: 2.0879 state2: 1.0000 mae: 0.1275 shots: 107  done: False totalshots: 2460
+energy mean: -0.6120  state1: 1.2792 state2: 0.0000 mae: 0.3103 shots: 3  done: False totalshots: 2490
+energy mean: -0.0935  state1: 2.0047 state2: 0.0000 mae: 0.0030 shots: 3  done: False totalshots: 2520
+energy mean: -0.5046  state1: 1.1517 state2: 0.0000 mae: 0.3055 shots: 3  done: False totalshots: 2550
+energy mean: -0.5162  state1: 1.2615 state2: 0.0000 mae: 0.4514 shots: 12  done: False totalshots: 2670
+energy mean: -0.7000  state1: 1.5825 state2: 0.0000 mae: 0.0476 shots: 3  done: False totalshots: 2700
+energy mean: -0.6958  state1: 1.4069 state2: 0.0000 mae: 0.1118 shots: 18  done: False totalshots: 2880
+Episode: 5	Average Reward: 0
+energy mean: -0.3308  state1: 1.2143 state2: 0.0000 mae: 0.1189 shots: 3  done: False totalshots: 210
+energy mean: -0.4788  state1: 1.1900 state2: 1.0000 mae: 0.3477 shots: 9  done: False totalshots: 300
+energy mean: -0.4767  state1: 2.2189 state2: 1.0000 mae: 0.0030 shots: 3  done: False totalshots: 330
+energy mean: -0.6990  state1: 1.5475 state2: 1.0000 mae: 0.1076 shots: 3  done: False totalshots: 360
+energy mean: -0.8748  state1: 1.4306 state2: 1.0000 mae: 0.5924 shots: 99  done: False totalshots: 1350
+energy mean: -0.5128  state1: 1.1097 state2: 0.0000 mae: 0.1878 shots: 3  done: False totalshots: 1380
+energy mean: -0.7979  state1: 1.3358 state2: 0.0000 mae: 0.7563 shots: 31  done: False totalshots: 1680
+energy mean: -0.4555  state1: 1.9218 state2: 0.0000 mae: 0.0087 shots: 3  done: False totalshots: 1710
+energy mean: -0.3778  state1: 2.3881 state2: 0.0000 mae: 0.3675 shots: 214  done: False totalshots: 3840
+energy mean: -0.4616  state1: 1.1834 state2: 0.0000 mae: 0.2930 shots: 3  done: False totalshots: 3870
+Episode: 6	Average Reward: 0
+energy mean: -0.4584  state1: 1.6509 state2: 0.0000 mae: 0.8739 shots: 133  done: False totalshots: 1500
+energy mean: -0.5835  state1: 1.5613 state2: 1.0000 mae: 0.0818 shots: 3  done: False totalshots: 1530
+energy mean: -0.8683  state1: 1.9668 state2: 1.0000 mae: 0.0233 shots: 3  done: False totalshots: 1560
+energy mean: -0.4928  state1: 1.2338 state2: 0.0000 mae: 0.1562 shots: 3  done: False totalshots: 1590
+energy mean: -0.5250  state1: 2.2079 state2: 0.0000 mae: 0.0054 shots: 3  done: False totalshots: 1620
+energy mean: -0.6699  state1: 1.8763 state2: 0.0000 mae: 0.5613 shots: 54  done: False totalshots: 2160
+energy mean: -0.8100  state1: 2.3584 state2: 0.0000 mae: 0.0599 shots: 86  done: False totalshots: 3000
+energy mean: -0.2979  state1: 1.0301 state2: 0.0000 mae: 0.2449 shots: 3  done: False totalshots: 3030
+energy mean: -0.4706  state1: 1.7696 state2: 0.0000 mae: 0.0226 shots: 3  done: False totalshots: 3060
+energy mean: -0.4120  state1: 1.9678 state2: 0.0000 mae: 0.1159 shots: 36  done: False totalshots: 3420
+Episode: 7	Average Reward: 0
+energy mean: -0.6143  state1: 1.5773 state2: 1.0000 mae: 0.0897 shots: 3  done: False totalshots: 210
+energy mean: -0.5458  state1: 1.5704 state2: 0.0000 mae: 0.0423 shots: 3  done: False totalshots: 240
+energy mean: -0.2685  state1: 1.7030 state2: 0.0000 mae: 0.5388 shots: 142  done: False totalshots: 1650
+energy mean: -0.4588  state1: 1.9364 state2: 0.0000 mae: 0.0127 shots: 3  done: False totalshots: 1680
+energy mean: -0.8192  state1: 2.1226 state2: 1.0000 mae: 0.0102 shots: 3  done: False totalshots: 1710
+energy mean: -0.3517  state1: 1.6618 state2: 0.0000 mae: 0.4947 shots: 72  done: False totalshots: 2430
